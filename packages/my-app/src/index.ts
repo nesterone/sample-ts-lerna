@@ -1,7 +1,7 @@
 import { Doctor } from "@my-hospital-sdk/doctor";
-// import { Patient } from "@my-hospital-sdk/patient";
-// import { Scheduler } from '@my-hospital-sdk/scheduler';
+import { Patient } from "@my-hospital-sdk/patient";
+import { Schedule } from '@my-hospital-sdk/schedule';
 
 console.log(new Doctor());
-// console.log(new Scheduler());
-// console.log(new Patient());
+console.log(new Schedule());
+console.log(new Patient());
