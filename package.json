@@ -12,5 +12,9 @@
     "@types/node": "^10.12.0",
     "lerna": "^3.4.3",
     "typescript": "^3.1.3"
+  },
+  "dependencies": {
+    "@my-hospital-sdk/scheduler": "latest",
+    "@my-hospital-sdk/patient": "latest"
   }
 }

@@ -22,8 +22,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@my-hospital-sdk/doctor": "^0.0.0",
-    "@my-hospital-sdk/patient": "^0.0.0",
-    "@my-hospital-sdk/scheduler": "^0.0.0"
+    "@my-hospital-sdk/doctor": "^0.0.0"
   }
 }
