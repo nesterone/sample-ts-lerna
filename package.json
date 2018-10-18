@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "check:my-app": "ts-node packages/my-app/src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
