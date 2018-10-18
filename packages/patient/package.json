@@ -1,12 +1,12 @@
 {
-  "name": "doctor",
+  "name": "patient",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Igor Nesterenko <igornester@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/doctor.js",
-  "typings": "lib/doctor.d.ts",
+  "main": "lib/patient.js",
+  "typings": "lib/patient.d.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
